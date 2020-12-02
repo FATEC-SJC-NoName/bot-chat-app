@@ -1,0 +1,7 @@
+
+<a href="#"
+onclick="window.open('http://localhost:3000/chatbot?code_user=1010463086029595',
+'',
+'width=410,height=450')">
+Chatbot
+</a>
